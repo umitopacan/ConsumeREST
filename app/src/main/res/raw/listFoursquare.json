@@ -1,0 +1,38 @@
+{
+  "meta": {
+      "code":200,
+      "requestId":"5704d689498ec4d1f663cab6"
+  },
+  "venues":[{
+      "id":"4f42b369e4b029502b926fff",
+      "name":"Nexus Bar"
+      },
+      {
+        "id":"4b927e25f964a520f0fd33e3",
+        "name":"Rumeli Hisarüstü"
+      },
+      {
+        "id":"4d6bf72ef7228cfaa3bafc45",
+        "name":"Bahçe Nargile Cafe"
+      },
+      {
+        "id":"537337ce498e243b07f6de1f",
+        "name":"Park Kasap & Steakhouse"
+      },
+      {
+        "id":"4c0cbee52466a593ab777621",
+        "name":"Boğaziçi Üniversitesi Hisar Kampüsü"
+      },
+      {
+        "id":"4fa9247fe4b02c573a956ebf",
+        "name":"Doğatepe Parkı"
+      },
+      {"id":"4f92b61ce4b0f0f87cd9fba1",
+        "name":"Hisarüstü Parkı"
+      },
+      {
+        "id":"516683c0e4b06b5f8565594d",
+        "name":"Model Mobilya Üretim Merkezi"
+      }
+  ]
+}

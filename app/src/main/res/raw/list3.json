@@ -1,0 +1,18 @@
+[
+  {
+    "id":1,
+    "name":"Doğatepe Restaurant",
+    "location":{
+      "lat":41.0873,
+      "lng":29.0500
+    }
+  },
+  {
+    "id":2,
+    "name":"Hisaüstü Parkı",
+    "location":{
+      "lat":41.0875,
+      "lng":29.0567
+    }
+  }
+]
